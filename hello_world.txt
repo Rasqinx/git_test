@@ -1,2 +1,3 @@
 Working with git and VS code is fun
+Just testing some git features
 
