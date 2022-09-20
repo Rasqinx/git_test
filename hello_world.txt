@@ -1,1 +1,2 @@
+Working with git and VS code is fun
 
